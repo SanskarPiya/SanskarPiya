@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning:  Backend development through node.js and postgreySQL<br>🎯 Goals: Being the best in my field<br>🎲 Fun fact: I am actually good in javascript</p>
+<p align="center">📚 I'm currently learning:  Node.js and EJS<br>🎯 Goals: Being the best in my field<br>🎲 Fun fact: I am actually good in javascript</p>
 
 ###
 
