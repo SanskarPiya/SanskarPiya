@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m Sanskar Piya, a passionate and ambitious learner with a strong interest in coding and technology. While I’m still exploring my future career path, I aspire to become a leader who makes a positive impact in whichever field he pursues.</p>
+<p align="center">I'm Sanskar Piya. I like coding and technology. I'm still figuring out what I want to do for a career, but I hope to become a leader who does good things in whatever field I end up in..</p>
 
 ###
 
